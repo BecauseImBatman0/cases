@@ -72,4 +72,12 @@
     <td><img src="images/beauty3-80.gif"></td>
     </tr>
 </table>
+
 # customized-video-editing
+<table class="center">
+    <tr>
+    <td><img src="images/hao2.gif"></td>
+    <td><img src="images/porsche.png"></td>
+    <td><img src="images/hao.gif"></td>
+    </tr>
+</table>
